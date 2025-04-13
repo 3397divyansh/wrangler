@@ -1,0 +1,23 @@
+# Enhancing Wrangler with ByteSize and TimeDuration Support
+
+1. "Help me add support for parsing ByteSize and TimeDuration units in the CDAP Wrangler DSL grammar."
+
+2. "How do I modify the ANTLR grammar to support BYTE_SIZE and TIME_DURATION tokens?"
+
+3. "Create Java classes for ByteSize and TimeDuration to parse human-readable formats like '10MB' and '5min'."
+
+4. "Update RecipeVisitor.java to parse BYTE_SIZE and TIME_DURATION tokens correctly."
+
+5. "Implement a new directive called aggregate-stats that sums up ByteSize and TimeDuration columns."
+
+6. "How do I access the TransientStore from ExecutorContext inside a directive?"
+
+7. "Write unit tests for ByteSize and TimeDuration parsing logic."
+
+8. "Write parser tests in GrammarBasedParserTest.java for BYTE_SIZE and TIME_DURATION."
+
+9. "Generate a README.md summarizing everything we’ve implemented in this enhancement."
+
+10. "Give me interview-style Pandas tutorial with deep explanations and examples."
+
+11. "What should I include in a prompts.txt file to document AI usage during development?"
